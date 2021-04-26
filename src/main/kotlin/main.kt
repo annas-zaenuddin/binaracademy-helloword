@@ -1,3 +1,6 @@
 fun main(args: Array<String>) {
-    NumberTiangle().createNumberTriangle(maxNumber = 10)
+    println("===================")
+    println("======Cetak Segitiga Angka========")
+    println("===================")
+
 }
